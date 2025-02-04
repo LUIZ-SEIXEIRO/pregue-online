@@ -1,6 +1,21 @@
 # Pregue Online
 
-Um assistente web para criação de sermões expositivos, estudos teológicos e devocionais, baseado em princípios bíblicos e com foco na participação do usuário. Além disso, integra um assistente administrativo para o Manual da Igreja do Nazareno.
+Um assistente web para criação de sermões expositivos, estudos teológicos guiados por "Orientação Pedagógica" da Taxonomia de Bloom e por fim Aplicando Diretrizes Educacionais, Baseadas nos Fundamentos Nazareno 4C's, sendo:
+
+"Os 4C’s Nazarenos são princípios educacionais que guiam a formação integral do indivíduo, alinhando-se aos valores cristãos. Cada um deles tem um papel fundamental no processo de ensino e discipulado:
+
+Contexto: A educação deve considerar o ambiente cultural, social e espiritual dos alunos, garantindo que o aprendizado seja relevante e aplicável à sua realidade.
+
+Caráter: O ensino deve promover a formação ética e moral, desenvolvendo virtudes cristãs e incentivando uma vida de santidade.
+
+Conteúdo: A base do ensino deve ser sólida, com fundamentos bíblicos e acadêmicos bem estruturados, promovendo conhecimento e crescimento espiritual.
+
+Competência: A educação deve capacitar os alunos a aplicarem o conhecimento adquirido, desenvolvendo habilidades práticas e liderança servidora para impactar o mundo ao seu redor.
+
+
+Essas diretrizes são essenciais para uma abordagem educacional transformadora, que prepara indivíduos não apenas para o sucesso acadêmico, mas também para uma vida de serviço e compromisso com Deus e com a sociedade.
+
+Além disso, integra um assistente administrativo para o Manual da Igreja do Nazareno, que seu foco e dar suporte a todos que integrem a administração da igreja do Nazareno, seja a nível local, distrital ou nacional.
 
 ## Objetivo
 
