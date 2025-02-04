@@ -1,6 +1,6 @@
 # Pregue Online
 
-Um assistente web para criação de sermões, estudos teológicos e devocionais, baseado em princípios bíblicos e com foco na participação do usuário. Além disso, integra um assistente administrativo para o Manual da Igreja do Nazareno.
+Um assistente web para criação de sermões expositivos, estudos teológicos e devocionais, baseado em princípios bíblicos e com foco na participação do usuário. Além disso, integra um assistente administrativo para o Manual da Igreja do Nazareno.
 
 ## Objetivo
 
