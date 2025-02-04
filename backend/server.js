@@ -3,6 +3,7 @@ const cors = require('cors');
 const dotenv = require('dotenv');
 const bibleRoutes = require('./routes/bibleRoutes');
 const manualRoutes = require('./routes/manualRoutes');
+
 const db = require('./db');
 dotenv.config();
 
