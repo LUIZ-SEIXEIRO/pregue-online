@@ -1,7 +1,6 @@
 import React, { useState } from 'react';
 import ChatInput from '../components/ChatInput';
 import ChatMessage from '../components/ChatMessage';
-import ManualSearch from '../components/ManualSearch';  // Adicionado
 
 const TheologicalStudy = () => {
     const [messages, setMessages] = useState([]);
@@ -41,7 +40,6 @@ const TheologicalStudy = () => {
                 <div>
                   <p>Tema Selecionado:{studyTopic}</p>
                    {/* Add aqui a lógica para buscar e mostrar o conteúdo do estudo*/}
-                  <ManualSearch /> {/* Adicionado */}
                 </div>
              )}
           </div>
