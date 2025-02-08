@@ -44,7 +44,7 @@ db.serialize(() => {
         }
     })
 
-    const manualText = fs.readFileSync('manual.txt', 'utf-8');
+    const manualText = fs.readFileSync('C:\\xampp\\htdocs\\naza-boot\\pregue-online\\manual.txt', 'utf-8');
     const sections = manualText.split('##');
     let sectionId = 0;
 

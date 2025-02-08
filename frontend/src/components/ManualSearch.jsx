@@ -6,7 +6,7 @@ const ManualSearch = () => {
 
     const handleSearch = async () => {
         try {
-            const response = await fetch(`/api/manual/search?query=${query}`);
+            const response = await fetch(`/api/search?query=${query}`);
             if (response.ok) {
                 const data = await response.json();
                 setResults(data);

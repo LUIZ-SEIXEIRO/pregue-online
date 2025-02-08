@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import ChatInput from '../components/ChatInput';
 import ChatMessage from '../components/ChatMessage';
+import ManualSearch from '../components/ManualSearch';  // Adicionado
 
 const TheologicalStudy = () => {
     const [messages, setMessages] = useState([]);
